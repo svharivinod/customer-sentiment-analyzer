@@ -83,7 +83,7 @@ e) Plotly – interactive visualizations
 
 ### 8. 📷 Demo Screenshot
 
-(Add a screenshot of your app UI here for more appeal)
+<img width="563" height="1000" alt="CSA" src="https://github.com/user-attachments/assets/4906865d-a527-43c8-af50-d029c04a370b" />
 
 ---
 
