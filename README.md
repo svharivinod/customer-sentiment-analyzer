@@ -2,6 +2,7 @@
 
 Gain instant insights from customer feedback with the power of **GenAI**.  
 This Streamlit app analyzes customer reviews, classifies them as **Positive, Negative, or Neutral**, and visualizes trends for quick decision-making.
+<img width="563" height="1000" alt="CSA" src="https://github.com/user-attachments/assets/bdaf9ca4-c641-4b6d-a492-a5214fdda97a" />
 
 ---
 
@@ -81,13 +82,7 @@ e) Plotly – interactive visualizations
 
 ---
 
-### 8. 📷 Demo Screenshot
-
-<img width="563" height="1000" alt="CSA" src="https://github.com/user-attachments/assets/4906865d-a527-43c8-af50-d029c04a370b" />
-
----
-
-### 9. 🤝 Contributing
+### 8. 🤝 Contributing
 
 Contributions are welcome! 🚀 If you'd like to improve this project:
 
@@ -103,13 +98,13 @@ e) Open a Pull Request
 
 ---
 
-### 10. 📜 License
+### 9. 📜 License
 
 This project is licensed under the MIT License. You’re free to use, modify, and distribute it.
 
 ---
 
-### 11. 🙌 Acknowledgements
+### 10. 🙌 Acknowledgements
 
 a) OpenAI for the GPT API
 
