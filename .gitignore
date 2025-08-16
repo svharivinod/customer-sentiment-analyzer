@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Env / secrets
+.env
+.streamlit/secrets.toml
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+
+# Data (OPTIONAL – uncomment to avoid committing datasets)
+# data/
